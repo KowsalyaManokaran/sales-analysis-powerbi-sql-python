@@ -94,4 +94,7 @@ Passionate about using data to solve business problems and deliver insights.
 
 ## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/bf17fc68-dd71-470d-8543-e26ed25171e3)
+## Excel Dashboard
+![image](https://github.com/user-attachments/assets/fd9dd522-9424-4181-a8e4-761e15e6addc)
+
 
