@@ -92,6 +92,6 @@ This allows the business to estimate upcoming revenue and plan resources accordi
 Aspiring Data Analyst with strong hands-on skills in SQL, Power BI, Python, and Excel.  
 Passionate about using data to solve business problems and deliver insights.
 
-LinkedIn | GitHub
+## Dashboard Preview
+![image](https://github.com/user-attachments/assets/bf17fc68-dd71-470d-8543-e26ed25171e3)
 
----
